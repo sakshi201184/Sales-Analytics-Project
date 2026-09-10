@@ -1,0 +1,503 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,State,Quantity,Sales,Profit,Payment_Mode,Customer_Type
+ORD0001,2025-05-21,CUST140,Smartphone,Electronics,West,Goa,4,84110.64,16594.55,UPI,Corporate
+ORD0002,2025-02-17,CUST144,Pen Set,Stationery,West,Maharashtra,4,689.88,117.56,Credit Card,Corporate
+ORD0003,2025-08-18,CUST041,Shoes,Fashion,East,West Bengal,5,17637.72,904.81,Cash,Returning
+ORD0004,2025-06-22,CUST089,Desk,Furniture,North,Delhi,2,22156.48,1536.4,Net Banking,Returning
+ORD0005,2025-03-05,CUST093,Laptop,Electronics,East,Bihar,7,354084.52,38466.2,Net Banking,New
+ORD0006,2025-04-27,CUST026,Smartphone,Electronics,West,Goa,5,126093.59,27874.7,Cash,Returning
+ORD0007,2025-07-09,CUST019,Backpack,Accessories,South,Karnataka,6,10285.67,1063.49,Net Banking,Corporate
+ORD0008,2025-08-25,CUST143,Headphones,Electronics,North,Delhi,7,16931.02,3980.11,Credit Card,Corporate
+ORD0009,2025-01-17,CUST146,Notebook,Stationery,West,Maharashtra,6,720.21,45.54,Debit Card,New
+ORD0010,2025-08-23,CUST144,Backpack,Accessories,East,Bihar,3,5217.59,518.24,Net Banking,Returning
+ORD0011,2025-07-24,CUST131,T-Shirt,Fashion,East,Bihar,6,5156.08,1286.48,Cash,New
+ORD0012,2025-11-18,CUST017,Laptop,Electronics,West,Maharashtra,3,181173.27,24355.48,Cash,Returning
+ORD0013,2025-05-09,CUST138,T-Shirt,Fashion,East,Bihar,1,963.06,70.22,Debit Card,Corporate
+ORD0014,2025-08-11,CUST068,Notebook,Stationery,West,Gujarat,3,364.84,87.84,Net Banking,New
+ORD0015,2025-06-02,CUST139,Shoes,Fashion,West,Goa,4,12009.09,2431.87,Net Banking,New
+ORD0016,2025-01-10,CUST079,T-Shirt,Fashion,South,Tamil Nadu,2,2038.09,460.09,Credit Card,New
+ORD0017,2025-09-06,CUST033,Office Chair,Furniture,West,Maharashtra,2,19456.43,3045.73,Credit Card,Corporate
+ORD0018,2025-09-28,CUST052,Backpack,Accessories,North,Punjab,7,14377.74,3390.02,Debit Card,Returning
+ORD0019,2025-08-20,CUST006,Notebook,Stationery,East,Bihar,2,230.87,14.5,Net Banking,Corporate
+ORD0020,2025-02-06,CUST085,Office Chair,Furniture,North,Delhi,1,8136.5,1880.21,UPI,Corporate
+ORD0021,2025-09-06,CUST147,Office Chair,Furniture,South,Telangana,4,35183.49,6849.19,Net Banking,Returning
+ORD0022,2025-04-08,CUST109,Office Chair,Furniture,East,Odisha,2,15711.96,2140.13,Cash,Returning
+ORD0023,2025-07-26,CUST050,Laptop,Electronics,West,Maharashtra,6,363048.88,26086.44,Credit Card,Corporate
+ORD0024,2025-04-04,CUST020,Backpack,Accessories,North,Punjab,5,9140.91,2055.76,Cash,Corporate
+ORD0025,2025-10-04,CUST061,Smartphone,Electronics,West,Goa,1,25129.48,5912.3,Credit Card,Returning
+ORD0026,2025-07-25,CUST100,Backpack,Accessories,East,West Bengal,1,1694.09,85.43,Debit Card,Returning
+ORD0027,2025-10-12,CUST015,Desk,Furniture,East,Bihar,8,90115.12,9853.33,Net Banking,Corporate
+ORD0028,2025-06-10,CUST136,Shoes,Fashion,West,Goa,1,2920.11,424.46,Credit Card,New
+ORD0029,2025-02-05,CUST031,Shoes,Fashion,West,Maharashtra,2,6840.34,663.79,Net Banking,New
+ORD0030,2025-02-11,CUST081,T-Shirt,Fashion,West,Goa,7,6705.36,1093.28,Debit Card,New
+ORD0031,2025-07-22,CUST081,Notebook,Stationery,North,Punjab,3,384.45,42.29,UPI,
+ORD0032,2025-10-03,CUST090,Backpack,Accessories,West,Maharashtra,4,7390.59,565.32,UPI,New
+ORD0033,2025-08-13,CUST136,Notebook,Stationery,South,Karnataka,5,631.75,156.32,UPI,Corporate
+ORD0034,2025-02-23,CUST142,Shoes,Fashion,South,Telangana,3,9274.72,2114.1,Credit Card,Returning
+ORD0035,2025-06-25,CUST130,Desk,Furniture,North,Rajasthan,4,51449.97,11348.97,Cash,Returning
+ORD0036,2025-08-05,CUST034,Laptop,Electronics,West,Goa,5,250530.96,29239.8,Debit Card,New
+ORD0037,2025-01-05,CUST039,Backpack,Accessories,East,Bihar,2,3307.72,749.6,Net Banking,New
+ORD0038,2025-03-07,CUST011,Notebook,Stationery,North,Punjab,1,117.25,26.94,Debit Card,New
+ORD0039,2025-10-14,CUST061,Office Chair,Furniture,West,Gujarat,7,68035.83,13600.06,Credit Card,New
+ORD0040,2025-06-20,CUST064,Pen Set,Stationery,West,Maharashtra,7,1386.7,308.97,Debit Card,New
+ORD0041,2025-08-29,CUST090,Smartphone,Electronics,East,West Bengal,4,83590.6,19534.32,Debit Card,New
+ORD0042,2025-04-09,CUST072,Office Chair,Furniture,West,Goa,7,58432.9,13022.97,Debit Card,Corporate
+ORD0043,2025-10-02,CUST067,Shoes,Fashion,East,Bihar,6,21788.34,1592.04,Credit Card,Corporate
+ORD0044,2025-11-02,CUST112,Desk,Furniture,West,Maharashtra,7,82859.43,17175.57,Net Banking,Corporate
+ORD0045,2025-04-08,CUST134,Smartphone,Electronics,East,Bihar,5,100220.63,13751.42,Net Banking,Corporate
+ORD0046,2025-02-05,CUST032,Office Chair,Furniture,South,Tamil Nadu,6,53845.23,9836.31,Debit Card,Corporate
+ORD0047,2025-07-26,CUST098,Desk,Furniture,East,Odisha,5,62316.19,5506.76,Credit Card,Corporate
+ORD0048,2025-10-08,CUST149,T-Shirt,Fashion,South,Tamil Nadu,1,878.37,80.84,Net Banking,Corporate
+ORD0049,2025-08-15,CUST044,Notebook,Stationery,East,Odisha,4,493.34,102.98,UPI,Returning
+ORD0050,2025-05-01,CUST007,Shoes,Fashion,South,Karnataka,5,15298.56,1374.21,UPI,New
+ORD0051,2025-08-01,CUST103,Backpack,Accessories,West,Gujarat,4,7773.02,985.59,,New
+ORD0052,2025-04-23,CUST119,Laptop,Electronics,West,Gujarat,3,181669.53,34368.67,UPI,Corporate
+ORD0053,2025-03-10,CUST082,Office Chair,Furniture,West,Gujarat,8,72548.82,17961.53,Cash,Corporate
+ORD0054,2025-08-17,CUST067,Shoes,Fashion,East,Bihar,3,10424.77,1510.91,Credit Card,Corporate
+ORD0055,2025-05-03,CUST061,Desk,Furniture,East,Bihar,5,60598.09,11677.8,Debit Card,Returning
+ORD0056,2025-03-19,CUST055,Notebook,Stationery,West,Maharashtra,4,477.96,38.5,UPI,Returning
+ORD0057,2025-08-27,CUST100,Pen Set,Stationery,South,Telangana,7,1153.61,249.85,Net Banking,Corporate
+ORD0058,2025-01-04,CUST108,Laptop,Electronics,East,Odisha,6,321635.54,41168.49,Net Banking,Corporate
+ORD0059,2025-04-23,CUST087,Shoes,Fashion,North,Punjab,5,16143.34,900.88,Cash,Corporate
+ORD0060,2025-11-15,CUST007,Headphones,Electronics,East,West Bengal,1,2816.83,474.29,UPI,Corporate
+ORD0061,2025-04-04,CUST117,Pen Set,Stationery,North,Punjab,1,173.71,20.06,Debit Card,Returning
+ORD0062,2025-05-10,CUST014,Pen Set,Stationery,South,Tamil Nadu,2,366.33,73.19,Debit Card,New
+ORD0063,2025-05-07,CUST062,Smartphone,Electronics,West,Maharashtra,4,97663.03,17019.46,Credit Card,Returning
+ORD0064,2025-12-25,CUST030,Smartphone,Electronics,North,Punjab,5,120089.7,10034.43,Credit Card,Returning
+ORD0065,2025-10-22,CUST020,Smartphone,Electronics,West,Gujarat,7,153871.2,29697.59,Net Banking,Corporate
+ORD0066,2025-06-04,CUST011,Office Chair,Furniture,West,Goa,2,18683.97,3048.97,Debit Card,Corporate
+ORD0067,2025-09-17,CUST126,Pen Set,Stationery,South,Karnataka,6,975.42,130.72,UPI,Returning
+ORD0068,2025-03-20,CUST070,Notebook,Stationery,East,Bihar,7,792.99,122.4,Net Banking,Corporate
+ORD0069,2025-10-31,CUST023,Backpack,Accessories,East,Odisha,5,8825.19,874.57,Debit Card,Returning
+ORD0070,2025-11-09,CUST084,Office Chair,Furniture,East,Bihar,7,58553.9,8716.41,Credit Card,Returning
+ORD0071,2025-06-24,CUST071,Office Chair,Furniture,South,Tamil Nadu,5,47603.4,9055.92,Net Banking,New
+ORD0072,2025-05-04,CUST122,Shoes,Fashion,North,Delhi,7,22896.04,4616.6,Cash,Returning
+ORD0073,2025-04-24,CUST149,Laptop,Electronics,West,Gujarat,7,413084.51,45952.02,Debit Card,Returning
+ORD0074,2025-10-09,CUST079,Shoes,Fashion,South,Tamil Nadu,6,18968.69,2669.83,Debit Card,New
+ORD0075,2025-03-03,CUST071,Smartphone,Electronics,North,Punjab,3,62560.43,12369.51,Net Banking,Corporate
+ORD0076,2025-04-10,CUST004,T-Shirt,Fashion,South,Karnataka,5,4305.92,369.83,Net Banking,New
+ORD0077,2025-10-11,CUST126,Desk,Furniture,West,Maharashtra,5,64461.26,4851.09,UPI,New
+ORD0078,2025-09-03,CUST065,T-Shirt,Fashion,South,Tamil Nadu,8,7093.27,1724.37,Cash,New
+ORD0079,2025-02-07,CUST078,Smartphone,Electronics,East,Odisha,1,20634.5,4379.23,UPI,New
+ORD0080,2025-11-02,CUST114,Smartphone,Electronics,East,Bihar,4,96265.26,12136.7,Debit Card,Corporate
+ORD0081,2025-11-14,CUST054,Pen Set,Stationery,South,Telangana,1,189.43,37.51,Credit Card,Returning
+ORD0082,2025-03-30,CUST121,Smartphone,Electronics,North,Delhi,2,41321.86,5442.23,Debit Card,New
+ORD0083,2025-05-25,CUST068,Office Chair,Furniture,South,Telangana,8,62410.06,6034.1,Net Banking,Corporate
+ORD0084,2025-10-06,CUST037,Office Chair,Furniture,East,West Bengal,4,36104.9,8364.87,,New
+ORD0085,2025-10-19,CUST078,Headphones,Electronics,South,Telangana,5,12622.35,1814.33,Cash,Returning
+ORD0086,2025-02-11,CUST065,Shoes,Fashion,East,Odisha,1,3591.54,707.2,UPI,New
+ORD0087,2025-05-18,CUST133,Office Chair,Furniture,West,Goa,1,9271.61,788.44,Cash,Returning
+ORD0088,2025-09-09,CUST083,Headphones,Electronics,East,Bihar,2,5087.51,669.87,UPI,New
+ORD0089,2025-09-11,CUST141,Notebook,Stationery,East,Bihar,5,639.39,83.18,UPI,Returning
+ORD0090,2025-06-15,CUST132,Smartphone,Electronics,South,Tamil Nadu,2,50272.03,6577.34,UPI,Corporate
+ORD0091,2025-01-28,CUST128,Shoes,Fashion,East,Odisha,4,13179.01,2300.09,Cash,New
+ORD0092,2025-03-09,CUST032,Office Chair,Furniture,South,Telangana,5,42904.98,8136.93,UPI,Corporate
+ORD0093,2025-03-23,CUST024,T-Shirt,Fashion,North,Rajasthan,5,4669.69,749.25,Credit Card,New
+ORD0094,2025-03-20,CUST070,Backpack,Accessories,West,Goa,8,16317.55,1768.37,Cash,Returning
+ORD0095,2025-10-10,CUST131,Backpack,Accessories,North,Punjab,3,5377.84,1260.42,Credit Card,New
+ORD0096,2025-09-17,CUST077,Desk,Furniture,East,Odisha,5,66308.24,7066.32,Net Banking,Corporate
+ORD0097,2025-10-03,CUST140,Backpack,Accessories,North,Punjab,8,14202.45,2277.84,Cash,Returning
+ORD0098,2025-05-03,CUST012,Notebook,Stationery,North,Rajasthan,7,805.05,165.12,Debit Card,Corporate
+ORD0099,2025-12-06,CUST129,Backpack,Accessories,East,Odisha,3,5528.69,317.37,Net Banking,Returning
+ORD0100,2025-09-27,CUST040,Smartphone,Electronics,East,West Bengal,8,159075.29,12540.08,UPI,Returning
+ORD0101,2025-12-21,CUST137,Desk,Furniture,South,Telangana,7,89246.57,19665.75,Cash,Returning
+ORD0102,2025-02-05,CUST059,Backpack,Accessories,West,Goa,4,7616.09,1783.58,UPI,Returning
+ORD0103,2025-03-27,CUST015,Smartphone,Electronics,West,Gujarat,5,123844.16,7331.35,Debit Card,Returning
+ORD0104,2025-05-06,CUST044,Notebook,Stationery,East,West Bengal,7,874.84,182.41,Credit Card,New
+ORD0105,2025-12-16,CUST060,T-Shirt,Fashion,East,Bihar,4,3687.9,614.52,Cash,Corporate
+ORD0106,2025-12-08,CUST074,Desk,Furniture,East,Odisha,1,13496.73,1930.72,Net Banking,New
+ORD0107,2025-10-28,CUST065,Smartphone,Electronics,East,Odisha,5,116570.81,15720.95,Cash,Returning
+ORD0108,2025-02-24,CUST076,Office Chair,Furniture,East,Odisha,4,33841.6,4121.63,Debit Card,New
+ORD0109,2025-10-17,CUST074,Pen Set,Stationery,South,Karnataka,1,202.98,40.4,Credit Card,Corporate
+ORD0110,2025-04-08,CUST036,Notebook,Stationery,North,Rajasthan,5,641.66,124.6,UPI,Corporate
+ORD0111,2025-01-18,CUST076,Laptop,Electronics,South,Tamil Nadu,6,357419.68,24314.07,Debit Card,
+ORD0112,2025-03-09,CUST043,Pen Set,Stationery,North,Delhi,6,1115.33,259.53,Debit Card,Returning
+ORD0113,2025-08-28,CUST102,Desk,Furniture,South,Karnataka,2,22444.54,5460.76,Net Banking,Returning
+ORD0114,2025-05-16,CUST068,Smartphone,Electronics,East,West Bengal,2,44602.65,8232.12,Net Banking,Returning
+ORD0115,2025-04-30,CUST144,Notebook,Stationery,West,Goa,8,870.01,197.36,Debit Card,Corporate
+ORD0116,2025-08-26,CUST012,Office Chair,Furniture,West,Goa,5,45148.17,3310.95,UPI,Returning
+ORD0117,2025-05-01,CUST139,Backpack,Accessories,West,Maharashtra,3,5384.67,668.79,Cash,Corporate
+ORD0118,2025-02-20,CUST072,Headphones,Electronics,East,Bihar,8,21078.26,5012.63,UPI,Corporate
+ORD0119,2025-08-16,CUST095,Notebook,Stationery,North,Punjab,4,534.65,37.36,Net Banking,Corporate
+ORD0120,2025-05-22,CUST117,Notebook,Stationery,West,Gujarat,4,548.18,131.45,UPI,Corporate
+ORD0121,2025-06-20,CUST053,Office Chair,Furniture,West,Maharashtra,4,39004.98,8089.46,UPI,Corporate
+ORD0122,2025-06-18,CUST071,Office Chair,Furniture,North,Delhi,3,27977.6,4733.71,Credit Card,New
+ORD0123,2025-02-26,CUST061,Shoes,Fashion,South,Karnataka,1,2985.44,363.17,Net Banking,Returning
+ORD0124,2025-01-27,CUST017,Laptop,Electronics,North,Punjab,3,179095.87,27798.74,Cash,Returning
+ORD0125,2025-09-15,CUST134,Notebook,Stationery,West,Gujarat,4,545.45,32.0,Debit Card,Returning
+ORD0126,2025-07-25,CUST114,Laptop,Electronics,West,Gujarat,7,412536.88,61077.64,UPI,New
+ORD0127,2025-03-06,CUST084,Notebook,Stationery,North,Delhi,5,633.65,105.87,Cash,Corporate
+ORD0128,2025-09-16,CUST142,Shoes,Fashion,South,Tamil Nadu,7,20715.4,3943.3,Credit Card,Returning
+ORD0129,2025-06-23,CUST081,Backpack,Accessories,North,Punjab,8,14395.43,2820.39,Cash,Returning
+ORD0130,2025-12-18,CUST024,Desk,Furniture,South,Karnataka,8,88011.2,19041.61,Cash,New
+ORD0131,2025-01-31,CUST109,Notebook,Stationery,North,Rajasthan,6,768.6,101.58,UPI,
+ORD0132,2025-02-23,CUST028,T-Shirt,Fashion,South,Tamil Nadu,4,3379.26,494.85,Debit Card,Corporate
+ORD0133,2025-10-21,CUST143,Notebook,Stationery,West,Gujarat,4,528.87,115.84,UPI,Corporate
+ORD0134,2025-05-20,CUST047,Desk,Furniture,West,Maharashtra,5,67823.06,8152.65,Credit Card,Corporate
+ORD0135,2025-11-21,CUST097,Pen Set,Stationery,West,Maharashtra,1,166.13,25.93,Cash,Returning
+ORD0136,2025-06-09,CUST022,Notebook,Stationery,North,Punjab,6,787.83,128.82,UPI,New
+ORD0137,2025-02-11,CUST114,Headphones,Electronics,West,Goa,5,12634.73,1703.2,Cash,Returning
+ORD0138,2025-08-09,CUST125,Office Chair,Furniture,West,Gujarat,2,16503.8,3064.71,Net Banking,Corporate
+ORD0139,2025-07-22,CUST055,Desk,Furniture,West,Maharashtra,1,10823.06,1193.61,Credit Card,Returning
+ORD0140,2025-01-04,CUST098,Desk,Furniture,South,Karnataka,8,104328.34,8882.41,Net Banking,Corporate
+ORD0141,2025-07-23,CUST020,Office Chair,Furniture,South,Karnataka,1,8576.97,1217.51,Debit Card,Corporate
+ORD0142,2025-11-24,CUST084,Pen Set,Stationery,East,Bihar,7,1225.2,160.51,Credit Card,Corporate
+ORD0143,2025-08-12,CUST135,Backpack,Accessories,South,Karnataka,2,3458.98,580.33,UPI,Returning
+ORD0144,2025-06-20,CUST136,Desk,Furniture,South,Karnataka,3,33087.41,5844.72,Net Banking,New
+ORD0145,2025-11-27,CUST051,Notebook,Stationery,South,Telangana,3,345.26,27.38,Credit Card,Corporate
+ORD0146,2025-11-18,CUST149,Headphones,Electronics,West,Maharashtra,8,20319.77,3306.98,Cash,Corporate
+ORD0147,2025-06-11,CUST078,T-Shirt,Fashion,South,Telangana,3,2726.84,392.08,Debit Card,Corporate
+ORD0148,2025-02-07,CUST095,Laptop,Electronics,South,Telangana,5,279244.8,16062.57,Debit Card,New
+ORD0149,2025-10-25,CUST049,Smartphone,Electronics,East,Odisha,1,22273.54,4721.17,Debit Card,Corporate
+ORD0150,2025-08-19,CUST022,Backpack,Accessories,North,Delhi,2,3969.87,863.35,Net Banking,Corporate
+ORD0151,2025-12-29,CUST041,Headphones,Electronics,West,Maharashtra,8,22954.93,3553.74,Debit Card,Returning
+ORD0152,2025-06-23,CUST017,Desk,Furniture,East,Odisha,1,13167.68,2363.09,Debit Card,New
+ORD0153,2025-05-10,CUST037,Shoes,Fashion,East,Odisha,3,9440.07,1572.22,Debit Card,Returning
+ORD0154,2025-12-29,CUST085,Pen Set,Stationery,North,Rajasthan,2,351.86,44.1,Credit Card,Corporate
+ORD0155,2025-12-10,CUST080,Shoes,Fashion,West,Goa,7,23007.54,1234.26,Credit Card,New
+ORD0156,2025-04-26,CUST026,Notebook,Stationery,East,West Bengal,3,337.95,36.89,Net Banking,Corporate
+ORD0157,2025-06-22,CUST047,Shoes,Fashion,West,Goa,3,10073.39,814.44,Net Banking,New
+ORD0158,2025-07-06,CUST115,Backpack,Accessories,West,Gujarat,4,8225.26,1415.72,Credit Card,Corporate
+ORD0159,2025-04-10,CUST113,Office Chair,Furniture,South,Tamil Nadu,6,54548.41,8950.51,Cash,Returning
+ORD0160,2025-04-13,CUST124,Pen Set,Stationery,East,West Bengal,3,603.86,36.49,Debit Card,Corporate
+ORD0161,2025-02-12,CUST038,Smartphone,Electronics,West,Gujarat,3,63901.06,14765.06,Cash,New
+ORD0162,2025-01-14,CUST061,Office Chair,Furniture,East,Odisha,7,54342.2,8173.14,Cash,New
+ORD0163,2025-06-13,CUST038,Notebook,Stationery,North,Delhi,2,266.35,47.94,Credit Card,New
+ORD0164,2025-03-13,CUST021,Desk,Furniture,East,Bihar,8,97166.44,4960.37,UPI,Returning
+ORD0165,2025-11-08,CUST078,Office Chair,Furniture,North,Rajasthan,7,55203.9,5941.06,UPI,New
+ORD0166,2025-11-15,CUST128,Office Chair,Furniture,East,Bihar,8,62267.72,13533.11,Net Banking,Corporate
+ORD0167,2025-03-15,CUST062,Laptop,Electronics,North,Rajasthan,5,277010.17,47912.21,Net Banking,Returning
+ORD0168,2025-07-04,CUST130,Headphones,Electronics,West,Goa,2,5691.75,903.94,Net Banking,New
+ORD0169,2025-11-22,CUST005,Pen Set,Stationery,East,West Bengal,7,1443.03,145.36,Debit Card,New
+ORD0170,2025-12-03,CUST086,Notebook,Stationery,North,Rajasthan,2,262.29,51.68,Credit Card,New
+ORD0171,2025-03-31,CUST047,Notebook,Stationery,South,Telangana,8,1099.4,160.19,Credit Card,New
+ORD0172,2025-04-14,CUST081,Backpack,Accessories,West,Gujarat,1,1976.0,448.86,Debit Card,Corporate
+ORD0173,2025-01-19,CUST013,Pen Set,Stationery,East,Odisha,4,699.5,155.59,Debit Card,Returning
+ORD0174,2025-07-24,CUST048,Smartphone,Electronics,South,Tamil Nadu,8,197764.05,25181.09,Cash,Corporate
+ORD0175,2025-05-17,CUST047,Backpack,Accessories,South,Telangana,2,3894.37,256.19,Net Banking,Returning
+ORD0176,2025-06-17,CUST110,Notebook,Stationery,West,Maharashtra,5,585.97,99.92,Credit Card,Corporate
+ORD0177,2025-01-22,CUST015,Backpack,Accessories,South,Tamil Nadu,6,11380.1,1558.94,UPI,Corporate
+ORD0178,2025-12-14,CUST113,Pen Set,Stationery,South,Telangana,3,614.63,48.28,UPI,New
+ORD0179,2025-07-07,CUST040,Smartphone,Electronics,North,Rajasthan,6,131434.2,21482.78,Cash,Returning
+ORD0180,2025-10-21,CUST072,Notebook,Stationery,East,West Bengal,3,371.65,48.17,Credit Card,New
+ORD0181,2025-09-23,CUST067,Laptop,Electronics,North,Punjab,7,434428.47,31953.17,Cash,New
+ORD0182,2025-09-09,CUST116,T-Shirt,Fashion,South,Telangana,4,3350.37,738.98,Credit Card,Corporate
+ORD0183,2025-06-13,CUST075,Backpack,Accessories,West,Goa,6,11635.76,1861.71,Debit Card,New
+ORD0184,2025-04-25,CUST061,Headphones,Electronics,South,Telangana,2,5731.42,1194.5,Cash,New
+ORD0185,2025-10-10,CUST080,Notebook,Stationery,South,Tamil Nadu,3,379.08,25.49,Cash,Corporate
+ORD0186,2025-10-22,CUST019,Backpack,Accessories,East,Odisha,2,3352.79,380.22,Cash,Returning
+ORD0187,2025-10-10,CUST129,Shoes,Fashion,South,Karnataka,3,10482.68,794.66,UPI,New
+ORD0188,2025-03-26,CUST089,Shoes,Fashion,North,Punjab,3,9414.39,1806.31,Net Banking,Returning
+ORD0189,2025-11-22,CUST137,Smartphone,Electronics,South,Karnataka,5,102442.18,11326.51,UPI,Corporate
+ORD0190,2025-12-04,CUST008,Headphones,Electronics,North,Delhi,6,16659.49,2710.89,UPI,New
+ORD0191,2025-04-18,CUST140,T-Shirt,Fashion,South,Telangana,7,6643.52,372.42,Debit Card,Corporate
+ORD0192,2025-12-17,CUST016,Desk,Furniture,East,West Bengal,7,81846.11,5286.82,Credit Card,Returning
+ORD0193,2025-04-15,CUST082,Pen Set,Stationery,East,Odisha,6,1135.8,127.8,Debit Card,Returning
+ORD0194,2025-10-15,CUST069,Headphones,Electronics,South,Telangana,2,4898.89,701.98,Cash,New
+ORD0195,2025-05-29,CUST041,Headphones,Electronics,West,Maharashtra,7,19530.72,2609.83,Debit Card,Corporate
+ORD0196,2025-09-13,CUST006,Notebook,Stationery,North,Delhi,8,983.7,109.89,UPI,Returning
+ORD0197,2025-04-21,CUST121,Shoes,Fashion,East,West Bengal,6,17513.56,1861.19,Debit Card,Corporate
+ORD0198,2025-03-10,CUST094,Laptop,Electronics,West,Gujarat,5,297516.18,60327.76,UPI,Returning
+ORD0199,2025-10-11,CUST141,Laptop,Electronics,North,Punjab,5,252555.31,38098.25,Debit Card,Corporate
+ORD0200,2025-02-19,CUST143,T-Shirt,Fashion,West,Maharashtra,7,6257.79,1547.91,Debit Card,New
+ORD0201,2025-01-21,CUST122,Office Chair,Furniture,East,Bihar,1,7732.69,1490.23,Net Banking,Returning
+ORD0202,2025-11-10,CUST077,Headphones,Electronics,North,Punjab,6,14109.38,3500.86,Net Banking,Returning
+ORD0203,2025-10-16,CUST085,Shoes,Fashion,East,Bihar,5,16299.57,869.21,UPI,Returning
+ORD0204,2025-12-19,CUST149,T-Shirt,Fashion,South,Telangana,1,944.3,97.36,,New
+ORD0205,2025-09-26,CUST009,Laptop,Electronics,East,West Bengal,7,360723.41,67147.0,Net Banking,Corporate
+ORD0206,2025-08-14,CUST053,Smartphone,Electronics,North,Delhi,6,132619.75,17584.32,Cash,Corporate
+ORD0207,2025-02-01,CUST123,T-Shirt,Fashion,East,Bihar,3,2780.11,450.87,Net Banking,Returning
+ORD0208,2025-09-30,CUST068,Notebook,Stationery,North,Punjab,6,746.33,138.2,Net Banking,Returning
+ORD0209,2025-10-13,CUST077,Office Chair,Furniture,North,Punjab,5,40639.21,9939.62,Debit Card,Corporate
+ORD0210,2025-09-03,CUST071,Office Chair,Furniture,East,Odisha,6,53046.22,12566.49,Debit Card,New
+ORD0211,2025-06-26,CUST021,T-Shirt,Fashion,East,Odisha,3,2626.06,282.37,Debit Card,Returning
+ORD0212,2025-04-14,CUST036,Desk,Furniture,East,West Bengal,5,67995.36,12867.05,UPI,Corporate
+ORD0213,2025-01-26,CUST106,T-Shirt,Fashion,North,Delhi,4,3814.15,230.75,Debit Card,Corporate
+ORD0214,2025-03-12,CUST041,Backpack,Accessories,West,Goa,1,2054.03,504.43,Cash,Corporate
+ORD0215,2025-04-13,CUST023,Backpack,Accessories,East,Bihar,5,8822.63,1580.84,Net Banking,New
+ORD0216,2025-08-02,CUST102,Shoes,Fashion,West,Maharashtra,3,10881.41,623.16,Cash,New
+ORD0217,2025-06-02,CUST117,Desk,Furniture,West,Maharashtra,2,27170.73,3179.2,Net Banking,Corporate
+ORD0218,2025-08-28,CUST042,Backpack,Accessories,North,Rajasthan,5,8533.83,618.95,Cash,Corporate
+ORD0219,2025-06-22,CUST045,Desk,Furniture,North,Delhi,5,62516.72,12594.4,Net Banking,Corporate
+ORD0220,2025-06-17,CUST036,Pen Set,Stationery,East,Bihar,2,360.07,24.87,Cash,Returning
+ORD0221,2025-07-16,CUST085,Office Chair,Furniture,West,Gujarat,4,34397.25,3556.64,Debit Card,Corporate
+ORD0222,2025-12-01,CUST031,T-Shirt,Fashion,West,Gujarat,6,5795.24,361.77,Cash,Returning
+ORD0223,2025-09-15,CUST076,Headphones,Electronics,East,Bihar,5,13407.16,2383.02,Debit Card,Corporate
+ORD0224,2025-09-02,CUST096,Office Chair,Furniture,North,Delhi,3,25850.49,6404.91,Cash,Corporate
+ORD0225,2025-12-07,CUST021,Shoes,Fashion,East,Bihar,4,13957.95,2597.13,Net Banking,Returning
+ORD0226,2025-10-16,CUST130,Shoes,Fashion,South,Karnataka,2,5858.81,934.66,Credit Card,Corporate
+ORD0227,2025-06-17,CUST150,Shoes,Fashion,North,Delhi,8,23783.94,2166.25,Cash,New
+ORD0228,2025-08-21,CUST015,Shoes,Fashion,East,West Bengal,3,9871.79,1395.47,Net Banking,Returning
+ORD0229,2025-05-11,CUST012,Desk,Furniture,West,Gujarat,1,13037.41,2159.81,Cash,Returning
+ORD0230,2025-08-30,CUST035,Smartphone,Electronics,West,Maharashtra,1,21379.0,1838.51,Cash,Returning
+ORD0231,2025-07-12,CUST139,Pen Set,Stationery,East,Odisha,2,385.45,70.29,Credit Card,Corporate
+ORD0232,2025-10-03,CUST058,Notebook,Stationery,West,Maharashtra,7,867.06,169.57,UPI,New
+ORD0233,2025-10-06,CUST064,Desk,Furniture,East,Bihar,7,86770.61,18627.23,Cash,Returning
+ORD0234,2025-02-27,CUST005,Headphones,Electronics,South,Karnataka,1,2755.92,368.87,Credit Card,New
+ORD0235,2025-01-18,CUST013,Smartphone,Electronics,West,Goa,8,184702.54,35214.88,Credit Card,Corporate
+ORD0236,2025-04-30,CUST036,Laptop,Electronics,East,Odisha,4,239491.21,49146.64,Net Banking,Returning
+ORD0237,2025-11-03,CUST134,Office Chair,Furniture,South,Telangana,6,48920.53,11019.43,Credit Card,Returning
+ORD0238,2025-10-13,CUST127,Desk,Furniture,South,Karnataka,3,38033.94,5151.32,UPI,Returning
+ORD0239,2025-08-02,CUST138,Pen Set,Stationery,South,Telangana,7,1181.0,147.97,Cash,New
+ORD0240,2025-03-15,CUST107,Office Chair,Furniture,South,Telangana,8,76750.6,12470.22,Net Banking,Corporate
+ORD0241,2025-05-11,CUST116,Headphones,Electronics,East,West Bengal,4,9825.66,646.67,Debit Card,New
+ORD0242,2025-05-18,CUST019,Shoes,Fashion,North,Delhi,7,23932.56,4082.52,Credit Card,Corporate
+ORD0243,2025-04-17,CUST055,Shoes,Fashion,North,Punjab,6,18735.3,4342.82,Credit Card,Corporate
+ORD0244,2025-12-23,CUST083,Smartphone,Electronics,East,West Bengal,4,87925.91,8604.97,Debit Card,Returning
+ORD0245,2025-05-14,CUST026,Backpack,Accessories,South,Tamil Nadu,6,11104.6,1659.64,Cash,Returning
+ORD0246,2025-07-31,CUST038,Office Chair,Furniture,South,Tamil Nadu,1,8845.37,833.72,UPI,Returning
+ORD0247,2025-03-20,CUST063,Shoes,Fashion,East,Odisha,4,12575.57,1584.12,Cash,Corporate
+ORD0248,2025-11-25,CUST091,Notebook,Stationery,South,Tamil Nadu,8,974.6,191.56,Credit Card,New
+ORD0249,2025-10-05,CUST020,Shoes,Fashion,East,West Bengal,1,3299.16,718.6,UPI,New
+ORD0250,2025-04-29,CUST130,Pen Set,Stationery,North,Rajasthan,2,387.65,20.09,Cash,Returning
+ORD0251,2025-09-07,CUST004,Laptop,Electronics,East,Bihar,1,49590.92,7950.85,UPI,Corporate
+ORD0252,2025-09-15,CUST028,Desk,Furniture,South,Karnataka,7,92529.52,21462.65,UPI,Corporate
+ORD0253,2025-11-14,CUST102,Headphones,Electronics,North,Delhi,5,13797.54,1427.56,UPI,Returning
+ORD0254,2025-05-05,CUST021,Pen Set,Stationery,East,Bihar,4,702.0,151.36,UPI,New
+ORD0255,2025-10-10,CUST044,Pen Set,Stationery,East,Odisha,8,1316.2,68.3,UPI,Returning
+ORD0256,2025-02-18,CUST146,Pen Set,Stationery,South,Telangana,1,172.34,39.68,Cash,Returning
+ORD0257,2025-05-24,CUST005,Laptop,Electronics,West,Goa,1,51966.12,11436.99,Credit Card,Corporate
+ORD0258,2025-06-03,CUST100,Headphones,Electronics,East,West Bengal,3,7807.42,1275.26,Net Banking,Returning
+ORD0259,2025-02-10,CUST020,Pen Set,Stationery,North,Rajasthan,6,986.5,135.56,Debit Card,Corporate
+ORD0260,2025-01-16,CUST059,T-Shirt,Fashion,East,Odisha,5,4931.49,690.95,Debit Card,Corporate
+ORD0261,2025-12-15,CUST064,Pen Set,Stationery,East,West Bengal,7,1160.99,201.69,UPI,New
+ORD0262,2025-12-31,CUST028,Desk,Furniture,North,Punjab,3,39056.9,4426.54,UPI,New
+ORD0263,2025-05-19,CUST115,Desk,Furniture,East,Odisha,2,22395.04,1959.08,Net Banking,Corporate
+ORD0264,2025-01-14,CUST084,Shoes,Fashion,East,West Bengal,2,6326.26,434.06,Cash,New
+ORD0265,2025-02-13,CUST098,Desk,Furniture,East,Odisha,4,50063.53,4201.16,Credit Card,New
+ORD0266,2025-09-10,CUST108,Desk,Furniture,South,Tamil Nadu,3,32969.4,4514.67,Debit Card,Returning
+ORD0267,2025-05-07,CUST028,Smartphone,Electronics,South,Tamil Nadu,8,184527.48,16443.18,Credit Card,Returning
+ORD0268,2025-11-14,CUST086,Laptop,Electronics,East,Odisha,7,423892.36,49132.66,Cash,Corporate
+ORD0269,2025-06-14,CUST102,T-Shirt,Fashion,North,Punjab,4,3671.11,313.98,Debit Card,Returning
+ORD0270,2025-07-12,CUST030,Backpack,Accessories,North,Punjab,5,9937.11,1277.78,Net Banking,New
+ORD0271,2025-10-09,CUST054,T-Shirt,Fashion,North,Rajasthan,1,1024.43,145.8,Cash,Returning
+ORD0272,2025-09-13,CUST040,Smartphone,Electronics,East,Bihar,3,69850.04,6873.54,Cash,Returning
+ORD0273,2025-09-03,CUST108,Smartphone,Electronics,East,Bihar,7,159173.14,37357.8,Net Banking,New
+ORD0274,2025-05-08,CUST145,Notebook,Stationery,West,Maharashtra,6,677.94,116.97,Cash,Returning
+ORD0275,2025-02-20,CUST143,Pen Set,Stationery,West,Maharashtra,5,859.95,171.45,Net Banking,Corporate
+ORD0276,2025-07-11,CUST129,T-Shirt,Fashion,North,Punjab,7,6399.32,1189.7,Credit Card,Returning
+ORD0277,2025-06-01,CUST037,Laptop,Electronics,East,West Bengal,7,435102.7,29226.27,Debit Card,Returning
+ORD0278,2025-09-24,CUST116,Notebook,Stationery,East,West Bengal,8,947.59,65.88,Debit Card,New
+ORD0279,2025-02-28,CUST043,Desk,Furniture,West,Goa,1,13347.54,2397.14,Credit Card,Corporate
+ORD0280,2025-10-14,CUST104,Headphones,Electronics,North,Punjab,7,19943.27,1921.96,Credit Card,New
+ORD0281,2025-11-11,CUST002,Pen Set,Stationery,East,West Bengal,4,728.92,99.07,Credit Card,New
+ORD0282,2025-02-22,CUST030,Desk,Furniture,West,Goa,3,35692.14,3191.41,Debit Card,Corporate
+ORD0283,2025-07-18,CUST118,Backpack,Accessories,South,Telangana,7,13189.06,1577.21,Net Banking,New
+ORD0284,2025-03-10,CUST047,Desk,Furniture,West,Goa,6,66921.51,7433.37,Debit Card,Corporate
+ORD0285,2025-11-02,CUST125,Headphones,Electronics,East,Odisha,3,7827.76,1053.68,Net Banking,Corporate
+ORD0286,2025-05-28,CUST014,Headphones,Electronics,North,Punjab,3,7100.81,1550.8,Debit Card,New
+ORD0287,2025-07-16,CUST114,Backpack,Accessories,North,Delhi,8,14432.88,2141.05,Cash,New
+ORD0288,2025-05-30,CUST044,Smartphone,Electronics,West,Maharashtra,1,21311.69,3357.05,Cash,Corporate
+ORD0289,2025-02-28,CUST094,Backpack,Accessories,West,Goa,5,9844.0,2113.08,Net Banking,New
+ORD0290,2025-02-22,CUST116,Backpack,Accessories,North,Punjab,4,7015.88,1753.01,Debit Card,Returning
+ORD0291,2025-05-02,CUST090,Smartphone,Electronics,East,West Bengal,4,97035.46,16261.67,Net Banking,Corporate
+ORD0292,2025-03-13,CUST146,Pen Set,Stationery,North,Rajasthan,4,794.44,167.7,Debit Card,Corporate
+ORD0293,2025-12-27,CUST132,Desk,Furniture,North,Punjab,5,58340.0,6036.36,UPI,New
+ORD0294,2025-12-02,CUST038,Pen Set,Stationery,West,Gujarat,3,580.69,44.44,Debit Card,New
+ORD0295,2025-10-23,CUST020,Pen Set,Stationery,East,West Bengal,5,951.26,118.94,UPI,Returning
+ORD0296,2025-07-08,CUST001,Shoes,Fashion,South,Telangana,8,29121.63,3362.32,UPI,Corporate
+ORD0297,2025-10-01,CUST055,Backpack,Accessories,South,Karnataka,7,12026.16,1634.7,Cash,Returning
+ORD0298,2025-10-08,CUST088,Notebook,Stationery,South,Tamil Nadu,3,374.95,55.14,UPI,New
+ORD0299,2025-03-05,CUST110,Smartphone,Electronics,East,West Bengal,3,66681.22,3343.08,Credit Card,Corporate
+ORD0300,2025-05-21,CUST096,Headphones,Electronics,South,Karnataka,2,5318.23,532.24,Credit Card,New
+ORD0301,2025-12-25,CUST025,Pen Set,Stationery,South,Telangana,4,725.26,49.49,UPI,New
+ORD0302,2025-10-31,CUST003,Backpack,Accessories,West,Maharashtra,4,7415.0,1030.78,Debit Card,New
+ORD0303,2025-02-06,CUST027,Pen Set,Stationery,North,Punjab,4,716.95,140.63,UPI,Returning
+ORD0304,2025-07-15,CUST018,Notebook,Stationery,South,Karnataka,3,381.74,70.79,Net Banking,Corporate
+ORD0305,2025-06-29,CUST106,Laptop,Electronics,North,Punjab,4,232544.4,18667.46,Net Banking,Corporate
+ORD0306,2025-02-21,CUST099,Backpack,Accessories,North,Delhi,3,5875.8,986.63,Debit Card,Returning
+ORD0307,2025-05-22,CUST073,Notebook,Stationery,North,Delhi,2,230.89,39.3,UPI,Corporate
+ORD0308,2025-11-07,CUST014,Desk,Furniture,North,Rajasthan,4,52174.12,5692.64,Credit Card,Returning
+ORD0309,2025-09-13,CUST093,Pen Set,Stationery,West,Maharashtra,2,371.55,91.23,Debit Card,New
+ORD0310,2025-10-07,CUST019,Pen Set,Stationery,East,Odisha,3,588.97,141.88,UPI,Corporate
+ORD0311,2025-04-21,CUST102,Smartphone,Electronics,West,Gujarat,1,24874.19,5963.24,Net Banking,Returning
+ORD0312,2025-12-26,CUST040,Shoes,Fashion,East,Odisha,7,20621.6,3244.05,Debit Card,New
+ORD0313,2025-04-15,CUST017,Desk,Furniture,West,Goa,3,37227.51,4770.57,Debit Card,Corporate
+ORD0314,2025-05-06,CUST015,Pen Set,Stationery,North,Delhi,2,407.22,29.81,Debit Card,Corporate
+ORD0315,2025-12-29,CUST089,Headphones,Electronics,West,Maharashtra,3,8065.31,667.54,Net Banking,Corporate
+ORD0316,2025-03-06,CUST008,Desk,Furniture,North,Punjab,5,64994.04,4784.3,Debit Card,Returning
+ORD0317,2025-12-31,CUST015,Desk,Furniture,West,Gujarat,2,24576.89,3739.53,Cash,Corporate
+ORD0318,2025-05-11,CUST030,Headphones,Electronics,South,Karnataka,2,5617.84,1038.31,Credit Card,Corporate
+ORD0319,2025-01-07,CUST039,Shoes,Fashion,West,Maharashtra,4,11667.14,1432.67,Credit Card,New
+ORD0320,2025-06-14,CUST070,Shoes,Fashion,East,West Bengal,4,12852.02,2494.03,UPI,Corporate
+ORD0321,2025-12-11,CUST012,Notebook,Stationery,West,Goa,1,113.38,23.91,Cash,New
+ORD0322,2025-06-17,CUST052,Backpack,Accessories,South,Tamil Nadu,2,3737.78,192.85,Debit Card,Corporate
+ORD0323,2025-07-08,CUST140,Desk,Furniture,North,Punjab,8,110346.89,22640.66,Credit Card,New
+ORD0324,2025-04-30,CUST003,Laptop,Electronics,East,West Bengal,6,349465.2,65941.34,Debit Card,New
+ORD0325,2025-04-16,CUST037,Pen Set,Stationery,South,Karnataka,4,723.57,175.28,Debit Card,New
+ORD0326,2025-07-31,CUST149,Laptop,Electronics,North,Rajasthan,6,334822.79,66823.89,UPI,Corporate
+ORD0327,2025-10-31,CUST061,Headphones,Electronics,East,West Bengal,1,2521.86,612.42,Debit Card,Returning
+ORD0328,2025-06-17,CUST052,Notebook,Stationery,East,Bihar,6,729.5,70.56,Credit Card,Corporate
+ORD0329,2025-03-26,CUST138,Smartphone,Electronics,North,Delhi,8,178906.42,23490.86,Debit Card,New
+ORD0330,2025-05-16,CUST078,Backpack,Accessories,South,Tamil Nadu,2,3321.38,702.54,Net Banking,New
+ORD0331,2025-02-16,CUST013,Office Chair,Furniture,South,Karnataka,4,38831.4,5018.92,Debit Card,Returning
+ORD0332,2025-08-20,CUST036,Headphones,Electronics,West,Gujarat,4,9236.81,650.1,UPI,New
+ORD0333,2025-04-12,CUST022,Laptop,Electronics,North,Delhi,7,382328.08,67312.49,Net Banking,Corporate
+ORD0334,2025-02-03,CUST033,Desk,Furniture,West,Maharashtra,4,54029.95,7493.21,UPI,Returning
+ORD0335,2025-01-26,CUST102,Smartphone,Electronics,West,Gujarat,3,74648.17,10199.27,Cash,New
+ORD0336,2025-07-01,CUST115,Pen Set,Stationery,East,West Bengal,4,811.49,85.2,Credit Card,New
+ORD0337,2025-06-01,CUST016,T-Shirt,Fashion,North,Rajasthan,8,7221.59,1156.45,UPI,Returning
+ORD0338,2025-04-13,CUST005,Pen Set,Stationery,North,Punjab,4,761.54,160.25,Cash,Corporate
+ORD0339,2025-09-06,CUST100,Notebook,Stationery,East,Bihar,6,812.28,122.23,Debit Card,New
+ORD0340,2025-04-23,CUST015,Laptop,Electronics,South,Telangana,1,61816.77,12716.18,Cash,Corporate
+ORD0341,2025-02-21,CUST015,Notebook,Stationery,North,Delhi,4,510.82,52.77,Credit Card,Corporate
+ORD0342,2025-04-01,CUST092,Pen Set,Stationery,South,Karnataka,4,754.65,159.41,Net Banking,New
+ORD0343,2025-04-07,CUST010,Notebook,Stationery,North,Rajasthan,8,994.11,84.61,UPI,New
+ORD0344,2025-09-27,CUST052,Office Chair,Furniture,North,Delhi,8,61211.62,14297.76,Credit Card,Returning
+ORD0345,2025-01-12,CUST029,Headphones,Electronics,South,Karnataka,3,7849.89,1832.52,Net Banking,Returning
+ORD0346,2025-12-06,CUST083,Smartphone,Electronics,South,Telangana,7,161161.64,18906.23,Credit Card,New
+ORD0347,2025-06-12,CUST092,Pen Set,Stationery,East,Bihar,3,581.47,94.43,Credit Card,Corporate
+ORD0348,2025-06-07,CUST147,T-Shirt,Fashion,North,Punjab,5,4193.27,820.9,Cash,Corporate
+ORD0349,2025-06-12,CUST128,Laptop,Electronics,North,Rajasthan,4,233180.57,16514.33,Credit Card,Returning
+ORD0350,2025-06-13,CUST086,Smartphone,Electronics,North,Punjab,3,69897.08,16958.14,Cash,New
+ORD0351,2025-12-21,CUST001,Desk,Furniture,North,Delhi,2,23702.89,4916.07,UPI,Returning
+ORD0352,2025-07-31,CUST097,Backpack,Accessories,East,West Bengal,8,16134.37,1940.1,UPI,Returning
+ORD0353,2025-08-20,CUST006,T-Shirt,Fashion,North,Delhi,2,1979.64,112.21,Debit Card,Returning
+ORD0354,2025-03-29,CUST024,Smartphone,Electronics,West,Gujarat,7,144794.82,9411.73,,Corporate
+ORD0355,2025-01-16,CUST112,T-Shirt,Fashion,East,Bihar,7,7154.35,593.81,Credit Card,New
+ORD0356,2025-04-08,CUST139,Smartphone,Electronics,South,Karnataka,7,165442.07,32163.2,Debit Card,Corporate
+ORD0357,2025-02-19,CUST126,Desk,Furniture,South,Karnataka,1,11978.71,1915.79,Credit Card,New
+ORD0358,2025-02-14,CUST123,Notebook,Stationery,West,Gujarat,5,663.58,116.14,Credit Card,New
+ORD0359,2025-11-23,CUST030,Laptop,Electronics,North,Delhi,5,314672.72,45537.59,Debit Card,Returning
+ORD0360,2025-05-16,CUST095,Backpack,Accessories,East,Bihar,2,3817.68,486.77,Cash,Returning
+ORD0361,2025-05-15,CUST069,Headphones,Electronics,East,West Bengal,8,20325.29,1935.95,Net Banking,New
+ORD0362,2025-12-09,CUST059,Headphones,Electronics,West,Maharashtra,6,16530.68,2195.23,Net Banking,New
+ORD0363,2025-12-18,CUST077,Pen Set,Stationery,East,Bihar,8,1502.18,145.9,UPI,Returning
+ORD0364,2025-08-18,CUST055,Laptop,Electronics,North,Delhi,3,187648.79,15656.09,Credit Card,New
+ORD0365,2025-12-16,CUST038,Laptop,Electronics,East,West Bengal,7,365934.73,78497.69,Net Banking,Returning
+ORD0366,2025-07-18,CUST134,Notebook,Stationery,West,Maharashtra,7,871.93,192.98,Cash,New
+ORD0367,2025-08-01,CUST026,T-Shirt,Fashion,East,West Bengal,3,2530.03,424.0,UPI,Corporate
+ORD0368,2025-06-26,CUST147,Smartphone,Electronics,South,Telangana,7,148769.26,26920.92,Net Banking,Returning
+ORD0369,2025-07-26,CUST103,Laptop,Electronics,North,Punjab,3,174002.59,32392.77,UPI,Returning
+ORD0370,2025-09-01,CUST078,Notebook,Stationery,North,Delhi,5,674.55,36.46,Debit Card,Returning
+ORD0371,2025-03-10,CUST083,Backpack,Accessories,West,Maharashtra,5,10291.99,1426.7,Debit Card,Corporate
+ORD0372,2025-08-15,CUST125,Pen Set,Stationery,West,Maharashtra,4,812.42,106.78,Net Banking,Returning
+ORD0373,2025-06-09,CUST146,Laptop,Electronics,North,Delhi,7,359556.3,79195.54,UPI,New
+ORD0374,2025-05-08,CUST051,Office Chair,Furniture,North,Delhi,1,8619.95,2013.67,Debit Card,Returning
+ORD0375,2025-03-05,CUST115,Backpack,Accessories,East,Bihar,1,1728.87,255.45,Credit Card,Returning
+ORD0376,2025-03-25,CUST073,T-Shirt,Fashion,South,Tamil Nadu,5,4892.58,918.68,UPI,Returning
+ORD0377,2025-04-20,CUST069,Laptop,Electronics,North,Rajasthan,4,233605.89,43343.01,Cash,Corporate
+ORD0378,2025-03-09,CUST065,Laptop,Electronics,West,Gujarat,3,173297.11,8958.2,Net Banking,Returning
+ORD0379,2025-06-28,CUST134,Desk,Furniture,East,Odisha,8,92447.97,13251.46,Net Banking,Returning
+ORD0380,2025-09-19,CUST073,T-Shirt,Fashion,West,Maharashtra,6,5617.97,948.06,Debit Card,Corporate
+ORD0381,2025-06-22,CUST067,Smartphone,Electronics,East,West Bengal,5,116616.36,25923.62,Debit Card,New
+ORD0382,2025-11-04,CUST007,Headphones,Electronics,North,Delhi,7,18639.82,3469.82,Cash,Returning
+ORD0383,2025-07-18,CUST049,Desk,Furniture,East,Odisha,1,12549.07,3124.1,Debit Card,Corporate
+ORD0384,2025-07-03,CUST143,Office Chair,Furniture,East,Bihar,5,47232.58,10302.74,Credit Card,Returning
+ORD0385,2025-05-13,CUST023,Smartphone,Electronics,East,West Bengal,3,75024.24,17249.44,Credit Card,Returning
+ORD0386,2025-06-19,CUST031,Office Chair,Furniture,South,Tamil Nadu,6,49222.13,5355.87,Cash,New
+ORD0387,2025-04-10,CUST077,T-Shirt,Fashion,West,Gujarat,2,2010.37,253.98,Cash,New
+ORD0388,2025-06-25,CUST118,Headphones,Electronics,North,Delhi,7,20068.96,4587.14,Credit Card,Returning
+ORD0389,2025-06-20,CUST116,Headphones,Electronics,West,Gujarat,3,7337.65,452.02,Debit Card,New
+ORD0390,2025-02-15,CUST104,Headphones,Electronics,North,Punjab,3,7902.15,1396.29,Cash,Returning
+ORD0391,2025-10-01,CUST083,Pen Set,Stationery,West,Maharashtra,4,779.52,187.1,Net Banking,New
+ORD0392,2025-05-08,CUST034,Laptop,Electronics,West,Goa,4,236143.86,28070.41,UPI,Returning
+ORD0393,2025-02-03,CUST134,Shoes,Fashion,South,Karnataka,1,3118.56,337.32,Net Banking,Corporate
+ORD0394,2025-03-10,CUST049,Notebook,Stationery,East,Bihar,6,827.31,122.47,Credit Card,Returning
+ORD0395,2025-03-09,CUST044,Laptop,Electronics,North,Delhi,4,238374.21,40032.22,UPI,Returning
+ORD0396,2025-05-11,CUST028,Laptop,Electronics,East,Bihar,1,57666.46,3436.46,UPI,New
+ORD0397,2025-07-14,CUST040,Smartphone,Electronics,East,Odisha,2,45620.11,6609.41,Credit Card,Corporate
+ORD0398,2025-12-05,CUST036,Laptop,Electronics,South,Tamil Nadu,2,117218.28,12190.17,Cash,New
+ORD0399,2025-02-28,CUST068,Shoes,Fashion,West,Gujarat,2,6556.38,1126.39,Net Banking,New
+ORD0400,2025-03-24,CUST124,Notebook,Stationery,East,Odisha,1,124.44,28.88,Debit Card,New
+ORD0401,2025-02-15,CUST039,Laptop,Electronics,West,Goa,2,121968.88,22418.42,UPI,Corporate
+ORD0402,2025-11-26,CUST068,Smartphone,Electronics,West,Gujarat,4,89248.53,21906.78,Cash,New
+ORD0403,2025-05-29,CUST030,Smartphone,Electronics,North,Delhi,6,145252.67,16346.94,UPI,New
+ORD0404,2025-11-28,CUST069,Laptop,Electronics,North,Rajasthan,3,162057.26,37095.8,UPI,Returning
+ORD0405,2025-07-25,CUST099,Notebook,Stationery,North,Delhi,7,958.09,99.99,Cash,Returning
+ORD0406,2025-12-23,CUST027,Headphones,Electronics,West,Maharashtra,1,2863.48,626.73,Cash,Corporate
+ORD0407,2025-11-09,CUST034,Backpack,Accessories,East,West Bengal,7,13794.37,2376.38,Cash,Returning
+ORD0408,2025-01-24,CUST135,Smartphone,Electronics,East,Odisha,2,42477.74,4793.51,Net Banking,Corporate
+ORD0409,2025-06-23,CUST124,T-Shirt,Fashion,North,Rajasthan,2,1814.78,354.48,Debit Card,Corporate
+ORD0410,2025-11-10,CUST130,Pen Set,Stationery,North,Rajasthan,1,162.52,38.5,Cash,Returning
+ORD0411,2025-06-14,CUST130,Headphones,Electronics,West,Gujarat,4,9827.24,1038.07,Credit Card,Corporate
+ORD0412,2025-02-10,CUST023,Pen Set,Stationery,East,West Bengal,8,1455.91,239.65,Cash,Returning
+ORD0413,2025-12-01,CUST143,Notebook,Stationery,West,Gujarat,1,111.08,14.71,Net Banking,New
+ORD0414,2025-10-15,CUST088,Smartphone,Electronics,South,Telangana,4,93601.11,13220.37,Debit Card,New
+ORD0415,2025-10-14,CUST116,Office Chair,Furniture,East,Odisha,8,73383.19,9001.1,UPI,New
+ORD0416,2025-07-01,CUST028,Office Chair,Furniture,West,Gujarat,5,44069.21,5498.87,UPI,New
+ORD0417,2025-07-29,CUST031,Backpack,Accessories,North,Rajasthan,2,3468.86,309.37,Cash,
+ORD0418,2025-06-23,CUST032,Backpack,Accessories,North,Rajasthan,2,3921.43,232.54,Cash,Returning
+ORD0419,2025-01-03,CUST150,T-Shirt,Fashion,North,Punjab,1,934.48,127.61,Cash,Corporate
+ORD0420,2025-03-07,CUST083,Headphones,Electronics,North,Rajasthan,2,4984.26,847.87,Net Banking,Returning
+ORD0421,2025-07-23,CUST035,Pen Set,Stationery,North,Punjab,6,1234.03,173.47,Credit Card,Returning
+ORD0422,2025-10-08,CUST056,T-Shirt,Fashion,South,Telangana,6,5821.03,1380.18,Credit Card,New
+ORD0423,2025-06-26,CUST046,T-Shirt,Fashion,South,Telangana,3,3092.4,556.69,Net Banking,Corporate
+ORD0424,2025-10-15,CUST107,Notebook,Stationery,West,Gujarat,8,1003.87,239.46,Net Banking,Returning
+ORD0425,2025-02-24,CUST015,Pen Set,Stationery,West,Goa,1,179.14,10.86,Credit Card,Returning
+ORD0426,2025-05-09,CUST076,Headphones,Electronics,South,Telangana,3,8323.84,1565.87,Credit Card,Corporate
+ORD0427,2025-02-22,CUST061,Laptop,Electronics,South,Tamil Nadu,4,238832.7,38751.59,Net Banking,Corporate
+ORD0428,2025-07-18,CUST081,Desk,Furniture,West,Gujarat,7,95690.74,23459.98,Net Banking,New
+ORD0429,2025-11-14,CUST095,Laptop,Electronics,South,Karnataka,8,487298.18,113198.04,Net Banking,Corporate
+ORD0430,2025-04-10,CUST020,T-Shirt,Fashion,North,Rajasthan,5,4554.92,1123.66,Credit Card,New
+ORD0431,2025-01-21,CUST042,Shoes,Fashion,West,Gujarat,7,21723.03,2234.17,Net Banking,Returning
+ORD0432,2025-12-30,CUST014,Laptop,Electronics,South,Tamil Nadu,3,150147.55,35393.63,Net Banking,Corporate
+ORD0433,2025-10-09,CUST135,Desk,Furniture,East,Bihar,6,66111.85,12662.82,Credit Card,New
+ORD0434,2025-03-23,CUST090,Shoes,Fashion,West,Goa,7,23201.25,3032.02,Credit Card,New
+ORD0435,2025-05-31,CUST122,Notebook,Stationery,South,Tamil Nadu,4,546.04,94.82,Net Banking,Corporate
+ORD0436,2025-06-27,CUST063,Laptop,Electronics,West,Goa,8,422438.27,75385.32,UPI,Corporate
+ORD0437,2025-07-17,CUST133,Notebook,Stationery,East,West Bengal,5,621.04,66.18,Debit Card,Corporate
+ORD0438,2025-01-23,CUST132,Shoes,Fashion,East,Odisha,5,17993.13,1592.44,UPI,New
+ORD0439,2025-02-03,CUST109,Headphones,Electronics,West,Goa,4,10675.84,2185.52,UPI,New
+ORD0440,2025-02-06,CUST010,Shoes,Fashion,East,Bihar,3,8697.01,1681.77,UPI,New
+ORD0441,2025-10-13,CUST067,Laptop,Electronics,North,Punjab,2,114811.46,10967.84,Cash,Returning
+ORD0442,2025-06-11,CUST002,Backpack,Accessories,East,Odisha,1,1795.28,132.24,Net Banking,New
+ORD0443,2025-02-07,CUST078,T-Shirt,Fashion,West,Goa,6,6112.86,435.4,Net Banking,New
+ORD0444,2025-07-22,CUST035,Desk,Furniture,East,Odisha,1,12221.96,1915.1,Cash,Corporate
+ORD0445,2025-12-13,CUST143,Desk,Furniture,North,Punjab,6,82033.05,4284.59,Credit Card,New
+ORD0446,2025-11-02,CUST079,Laptop,Electronics,West,Goa,7,398200.88,95327.65,Credit Card,Corporate
+ORD0447,2025-11-27,CUST065,Notebook,Stationery,North,Punjab,3,338.49,31.87,Credit Card,New
+ORD0448,2025-08-25,CUST026,Headphones,Electronics,West,Goa,2,4863.32,308.69,Credit Card,Corporate
+ORD0449,2025-07-02,CUST073,T-Shirt,Fashion,East,Odisha,3,2883.12,279.39,Net Banking,New
+ORD0450,2025-08-19,CUST150,Office Chair,Furniture,South,Tamil Nadu,6,53758.37,5974.44,Credit Card,Corporate
+ORD0451,2025-08-08,CUST057,T-Shirt,Fashion,South,Tamil Nadu,3,2433.26,241.46,Cash,Returning
+ORD0452,2025-06-19,CUST079,Notebook,Stationery,North,Rajasthan,8,975.08,118.71,Cash,Corporate
+ORD0453,2025-11-07,CUST036,Smartphone,Electronics,North,Rajasthan,2,48859.72,10834.29,Net Banking,New
+ORD0454,2025-02-08,CUST149,Desk,Furniture,West,Goa,1,13348.76,2353.72,Net Banking,Returning
+ORD0455,2025-10-10,CUST121,T-Shirt,Fashion,North,Delhi,5,4661.4,1164.16,Credit Card,Returning
+ORD0456,2025-05-29,CUST102,Pen Set,Stationery,North,Rajasthan,3,548.73,83.45,Debit Card,Corporate
+ORD0457,2025-12-17,CUST041,Laptop,Electronics,North,Rajasthan,3,179734.75,14032.64,Credit Card,Corporate
+ORD0458,2025-09-05,CUST060,T-Shirt,Fashion,North,Rajasthan,6,4914.57,994.19,UPI,Returning
+ORD0459,2025-12-09,CUST100,Notebook,Stationery,North,Delhi,4,494.15,102.93,Cash,Returning
+ORD0460,2025-06-15,CUST071,Laptop,Electronics,West,Goa,2,118352.75,18258.82,Debit Card,Corporate
+ORD0461,2025-12-01,CUST020,Shoes,Fashion,North,Punjab,7,22205.66,4011.84,Net Banking,Returning
+ORD0462,2025-07-27,CUST124,Pen Set,Stationery,North,Rajasthan,6,1192.65,141.93,Net Banking,New
+ORD0463,2025-03-26,CUST055,Shoes,Fashion,North,Punjab,4,11766.68,2102.65,Credit Card,New
+ORD0464,2025-03-02,CUST030,Headphones,Electronics,South,Telangana,4,10036.53,1164.69,Cash,Corporate
+ORD0465,2025-10-30,CUST063,Backpack,Accessories,East,West Bengal,3,5733.8,757.89,UPI,New
+ORD0466,2025-11-19,CUST043,T-Shirt,Fashion,North,Delhi,1,1010.43,80.2,Debit Card,New
+ORD0467,2025-10-16,CUST073,Shoes,Fashion,East,Bihar,1,3582.81,700.78,UPI,New
+ORD0468,2025-03-29,CUST150,Backpack,Accessories,East,Odisha,4,7974.65,1357.03,Credit Card,Corporate
+ORD0469,2025-12-18,CUST018,Shoes,Fashion,South,Karnataka,6,21707.29,3675.19,Credit Card,Returning
+ORD0470,2025-01-09,CUST108,Pen Set,Stationery,North,Delhi,4,742.09,172.07,Credit Card,Corporate
+ORD0471,2025-11-11,CUST031,Smartphone,Electronics,North,Punjab,1,24627.64,3848.96,UPI,Returning
+ORD0472,2025-11-29,CUST012,Headphones,Electronics,West,Goa,7,18033.94,2237.57,Net Banking,Returning
+ORD0473,2025-06-29,CUST060,Office Chair,Furniture,East,Odisha,2,17108.33,1726.29,UPI,Returning
+ORD0474,2025-04-07,CUST148,T-Shirt,Fashion,East,Odisha,1,969.56,201.56,Net Banking,New
+ORD0475,2025-12-02,CUST093,Shoes,Fashion,West,Gujarat,4,13720.85,1552.93,UPI,New
+ORD0476,2025-10-02,CUST102,Pen Set,Stationery,South,Tamil Nadu,7,1311.87,226.14,Credit Card,Returning
+ORD0477,2025-07-09,CUST089,Shoes,Fashion,East,West Bengal,8,24664.18,2745.88,Cash,Corporate
+ORD0478,2025-04-28,CUST026,Headphones,Electronics,West,Goa,8,21915.55,5256.42,Credit Card,Corporate
+ORD0479,2025-11-11,CUST002,Pen Set,Stationery,South,Telangana,1,169.23,41.11,UPI,New
+ORD0480,2025-02-02,CUST010,Backpack,Accessories,East,West Bengal,5,8598.98,567.6,Cash,Returning
+ORD0481,2025-11-02,CUST127,T-Shirt,Fashion,South,Telangana,1,1022.79,218.92,Cash,New
+ORD0482,2025-01-18,CUST093,Office Chair,Furniture,South,Karnataka,4,35829.11,6621.39,Credit Card,Corporate
+ORD0483,2025-05-22,CUST052,Laptop,Electronics,North,Delhi,7,380488.54,49093.91,Net Banking,New
+ORD0484,2025-05-26,CUST058,Smartphone,Electronics,West,Goa,6,130266.68,27760.22,Net Banking,New
+ORD0485,2025-01-03,CUST144,Backpack,Accessories,East,Bihar,5,8493.83,1284.67,UPI,Corporate
+ORD0486,2025-09-20,CUST148,Desk,Furniture,South,Karnataka,5,67141.7,14276.3,Debit Card,Corporate
+ORD0487,2025-09-05,CUST118,Backpack,Accessories,East,Bihar,4,7843.45,1900.06,Cash,Corporate
+ORD0488,2025-05-13,CUST057,Laptop,Electronics,East,West Bengal,2,109523.51,22751.45,Credit Card,Returning
+ORD0489,2025-10-02,CUST074,Pen Set,Stationery,South,Telangana,1,193.54,19.87,UPI,Returning
+ORD0490,2025-04-02,CUST147,Notebook,Stationery,West,Goa,8,939.33,88.03,Debit Card,New
+ORD0491,2025-04-13,CUST053,Office Chair,Furniture,East,Bihar,4,36851.15,8274.87,Credit Card,New
+ORD0492,2025-02-24,CUST127,Office Chair,Furniture,South,Karnataka,2,19210.8,3557.12,Net Banking,New
+ORD0493,2025-07-10,CUST148,Shoes,Fashion,West,Gujarat,6,19643.23,4853.3,Debit Card,Returning
+ORD0494,2025-04-24,CUST123,Headphones,Electronics,South,Tamil Nadu,3,6851.53,1437.82,Net Banking,New
+ORD0495,2025-12-18,CUST133,Shoes,Fashion,South,Tamil Nadu,3,9737.27,721.27,Cash,Returning
+ORD0496,2025-04-18,CUST067,Laptop,Electronics,West,Goa,7,402422.04,46313.64,Credit Card,Corporate
+ORD0497,2025-08-30,CUST054,Desk,Furniture,North,Punjab,6,71386.63,10690.43,Cash,Corporate
+ORD0498,2025-05-24,CUST148,Notebook,Stationery,South,Tamil Nadu,8,907.17,69.15,Credit Card,New
+ORD0499,2025-08-10,CUST039,Desk,Furniture,North,Rajasthan,7,79717.33,16741.24,Cash,New
+ORD0500,2025-03-10,CUST144,Headphones,Electronics,East,Odisha,6,16445.0,1809.06,Net Banking,New
+ORD0011,2025-07-24,CUST131,T-Shirt,Fashion,East,Bihar,6,5156.08,1286.48,Cash,New
+ORD0026,2025-07-25,CUST100,Backpack,Accessories,East,West Bengal,1,1694.09,85.43,Debit Card,Returning
